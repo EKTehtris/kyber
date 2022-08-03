@@ -1,0 +1,2 @@
+[submodule "tests/KATs/kyber"]
+	url = https://github.com/pq-crystals/kyber.git
